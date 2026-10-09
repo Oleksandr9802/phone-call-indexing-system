@@ -64,3 +64,9 @@ This project helped me strengthen my understanding of:
 - [puligill90](https://github.com/puligill90)
 
 Developed collaboratively as part of Data Structures coursework at DePaul University.
+
+## Project Report
+
+The full technical report includes implementation details, performance testing, benchmark results, and analysis of the data structures used in this project.
+
+[View Full Project Report](The%20Report%20Project_1.pdf)
